@@ -31,5 +31,5 @@ Online Food Order System in PHP
 8.  After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“ 
 9.  All the login details are provided inside the project folder, check that out and enter them in order to use it. 
 
- Admin Login Info Details
+
 
